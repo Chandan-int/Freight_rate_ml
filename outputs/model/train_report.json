@@ -1,0 +1,8 @@
+{
+  "n_train_rows": 48000,
+  "daily_effect_std": 0.025390439935784395,
+  "daily_effect_mean": -0.0006810186828834833,
+  "long_run_level_used_for_nov_dec": 0.006770695166762859,
+  "mi_slope": 0.1307189375889902,
+  "mi_anchor": -0.11805010277623917
+}
